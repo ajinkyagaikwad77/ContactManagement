@@ -1,0 +1,10 @@
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\Services.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\Services.pdb
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\DAL.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\Dapper.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\DAL.pdb
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\bin\Release\Dapper.xml
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\obj\Release\Services.csprojResolveAssemblyReference.cache
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\obj\Release\Services.csproj.CoreCompileInputs.cache
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\obj\Release\Services.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\Services\obj\Release\Services.pdb

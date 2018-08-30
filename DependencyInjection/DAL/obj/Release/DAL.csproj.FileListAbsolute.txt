@@ -1,0 +1,7 @@
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\bin\Release\DAL.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\bin\Release\DAL.pdb
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\bin\Release\Dapper.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\bin\Release\Dapper.xml
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\obj\Release\DAL.dll
+C:\Users\ajinkya.gaikwad\source\repos\DependencyInjection\DAL\obj\Release\DAL.pdb
